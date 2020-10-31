@@ -4,7 +4,7 @@
 # add book
 # return book
 
-# HarryLibrary = Library(list_of_books, library_name)
+# Sam_Library = Library(list_of_books, library_name)
 
 
 # dictionary (books-name_of_person)
